@@ -32,8 +32,10 @@ class FB_User_Export extends WP_CLI_Command {
      *
      * ## EXAMPLES
      *
-     *     wp user export_csv --role=subscriber
-     *     wp user export_csv --field=woo --role=customer
+     *     wp user fb-user-export
+     *     wp user fb-user-export --role=subscriber
+     *     wp user fb-user-export --type=woo --role=customer
+     *     wp user fb-user-export --type=edd --role=subscriber
      *
      * @when after_wp_load
      */
