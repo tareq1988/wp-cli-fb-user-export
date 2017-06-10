@@ -1,8 +1,8 @@
 {
-    "name": "tareq1988/fb-user-export",
+    "name": "tareq1988/wp-cli-fb-user-export",
     "description": "",
     "type": "wp-cli-package",
-    "homepage": "https://github.com/tareq1988/fb-user-export",
+    "homepage": "https://github.com/tareq1988/wp-cli-fb-user-export",
     "license": "MIT",
     "authors": [],
     "minimum-stability": "dev",
