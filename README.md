@@ -37,7 +37,9 @@ OPTIONS
 EXAMPLES
 
     wp user export_csv --role=subscriber
-    wp user export_csv --field=woo --role=customer```
+    wp user export_csv --field=woo --role=customer
+
+```
 
 
 ## Installing
